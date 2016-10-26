@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Gfx Mod</key>
+	<dict>
+		<key>レティクル</key>
+		<dict>
+			<key>標準 タイプ</key>
+			<string></string>
+			<key>円 タイプ1</key>
+			<string></string>
+			<key>円 タイプ2</key>
+			<string></string>
+			<key>円 タイプ3</key>
+			<string></string>
+			<key>四角 タイプ1</key>
+			<string></string>
+			<key>四角 タイプ1 (スナイパー)</key>
+			<string></string>
+			<key>四角 タイプ2</key>
+			<string></string>
+			<key>四角 タイプ2 (スナイパー)</key>
+			<string></string>
+			<key>四角 タイプ3</key>
+			<string></string>
+			<key>四角 タイプ3 (スナイパー)</key>
+			<string></string>
+			<key>BF4 現代戦車 by 6lucky</key>
+			<string></string>
+			<key>PC Sight by 6lucky</key>
+			<string></string>
+			<key>AuC GunSight by Freewheeler</key>
+			<string></string>
+			<key>No HUD by PixelRage</key>
+			<string></string>
+			<key>照準Mod1 by kAEdE</key>
+			<string></string>
+			<key>照準Mod2 by kAEdE</key>
+			<string></string>
+		</dict>
+		<key>車両スキン</key>
+		<dict>
+			<key>透過カモフラージュ</key>
+			<string></string>
+		</dict>
+		<key>ミニマップ</key>
+		<dict>
+			<key>視認範囲円 (中Tier用)</key>
+			<string></string>
+			<key>視認範囲円 (高Tier用)</key>
+			<string></string>
+			<key>カラーミニマップ by Freewheeler</key>
+			<string></string>
+			<key>NeXT VisibleRange (中Tier用) by Freewheeler</key>
+			<string></string>
+			<key>NeXT VisibleRange (高Tier用) by Freewheeler</key>
+			<string></string>
+		</dict>
+		<key>ハンガースキン</key>
+		<dict>
+			<key>Gfx Mod Pack ハンガースキン</key>
+			<string></string>
+		</dict>
+		<key>Tier / 車両アイコン</key>
+		<dict>
+			<key>Tierアイコン色分け表示</key>
+			<string></string>
+			<key>Tierアイコン色分け英数字表示</key>
+			<string></string>
+			<key>Tierアイコン色分け英数字表示 (骸骨)</key>
+			<string></string>
+			<key>ミニ車両アイコン色分け表示</key>
+			<string></string>
+		</dict>
+		<key>進行方向矢印</key>
+		<dict>
+			<key>進行方向矢印透過率50%</key>
+			<string></string>
+			<key>進行方向矢印透過率75%</key>
+			<string></string>
+			<key>進行方向矢印透過率100%</key>
+			<string></string>
+		</dict>
+		<key>弾道表示</key>
+		<dict>
+			<key>Gfx Mod Pack 弾道表示スキン</key>
+			<string></string>
+			<key>レーザー黒 by PixelRage</key>
+			<string></string>
+			<key>レーザー青 by PixelRage</key>
+			<string></string>
+			<key>レーザー緑 by PixelRage</key>
+			<string></string>
+			<key>レーザー橙 by PixelRage</key>
+			<string></string>
+			<key>レーザー桃 by PixelRage</key>
+			<string></string>
+			<key>レーザー茶 by PixelRage</key>
+			<string></string>
+			<key>レーザー紫 by PixelRage</key>
+			<string></string>
+			<key>レーザー虹1 by PixelRage</key>
+			<string></string>
+			<key>レーザー虹2 by PixelRage</key>
+			<string></string>
+			<key>レーザー赤 by PixelRage</key>
+			<string></string>
+			<key>レーザー白 by PixelRage</key>
+			<string></string>
+			<key>レーザー黃 by PixelRage</key>
+			<string></string>
+		</dict>
+		<key>その他</key>
+		<dict>
+			<key>敵砲撃方向のマーカー変更</key>
+			<string></string>
+			<key>敵方向のマーカー変更</key>
+			<string></string>
+			<key>旧タイプのジョイスティック表示</key>
+			<string></string>
+			<key>装填弾薬を色分け表示</key>
+			<string></string>
+			<key>操作系ボタンのデザイン変更</key>
+			<string></string>
+			<key>円形装填ゲージ・照準収束</key>
+			<string></string>
+			<key>第六感アイコン (エヴァ)</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>Sfx Mod</key>
+	<dict>
+		<key>砲撃音</key>
+		<dict>
+			<key>Sfx Mod Pack 砲撃音</key>
+			<string></string>
+			<key>War Thunder 砲撃音</key>
+			<string></string>
+		</dict>
+		<key>被弾音</key>
+		<dict>
+			<key>Sfx Mod Pack 被弾音</key>
+			<string></string>
+		</dict>
+		<key>エンジン音</key>
+		<dict>
+			<key>Sfx Mod Pack エンジン音</key>
+			<string></string>
+		</dict>
+		<key>戦車長ボイス</key>
+		<dict>
+			<key>Sfx Mod Pack ボイス</key>
+			<string></string>
+			<key>みほボイス</key>
+			<string></string>
+			<key>ゆかりボイス</key>
+			<string></string>
+			<key>さおりボイス</key>
+			<string></string>
+			<key>はなボイス</key>
+			<string></string>
+			<key>まこボイス</key>
+			<string></string>
+			<key>ノンナボイス</key>
+			<string></string>
+			<key>カチューシャボイス</key>
+			<string></string>
+			<key>ノンナ＆カチューシャボイス</key>
+			<string></string>
+			<key>あひるさんチームボイス</key>
+			<string></string>
+			<key>西隊長ボイス (オリジナル)</key>
+			<string></string>
+			<key>西隊長ボイス (アレンジ) by 6lucky</key>
+			<string></string>
+			<key>カバさんチームボイス by 6lucky</key>
+			<string></string>
+			<key>継続高校ボイス by 6lucky</key>
+			<string></string>
+			<key>プラウダ高校ボイス (CV:てつお) by 6lucky</key>
+			<string></string>
+			<key>イ401 ボイス by 6lucky</key>
+			<string></string>
+			<key>未確認で進行形ボイス by 6lucky</key>
+			<string></string>
+			<key>ゆるゆりボイス by 6lucky</key>
+			<string></string>
+			<key>War Thunderボイス by 6lucky</key>
+			<string></string>
+			<key>まほボイス by すいか</key>
+			<string></string>
+		</dict>
+		<key>BGM</key>
+		<dict>
+			<key>Sfx Mod Pack 戦闘前BGM</key>
+			<string></string>
+			<key>ガルパン劇場版 戦闘前BGM by 6lucky</key>
+			<string></string>
+			<key>BlueSteel 戦闘前BGM by 6lucky</key>
+			<string></string>
+			<key>Sakkijarven polkka ガレージBGM by 6lucky</key>
+			<string></string>
+			<key>Sakkijarven polkka (Remix) ガレージBGM by 6lucky</key>
+			<string></string>
+		</dict>
+		<key>装填完了音</key>
+		<dict>
+			<key>音 タイプ1</key>
+			<string></string>
+			<key>音 タイプ2</key>
+			<string></string>
+			<key>音 タイプ3</key>
+			<string></string>
+			<key>音 タイプ4</key>
+			<string></string>
+			<key>音 タイプ5</key>
+			<string></string>
+			<key>音 タイプ6</key>
+			<string></string>
+			<key>音 タイプ7</key>
+			<string></string>
+			<key>音 タイプ8</key>
+			<string></string>
+			<key>音 タイプ9</key>
+			<string></string>
+			<key>音 タイプ10</key>
+			<string></string>
+			<key>音＋声 (日本語)</key>
+			<string></string>
+			<key>音＋声 (英語)</key>
+			<string></string>
+			<key>音＋声 (ロシア語)</key>
+			<string></string>
+			<key>音＋声 (ドイツ語)</key>
+			<string></string>
+			<key>声 (日本語)</key>
+			<string></string>
+			<key>声 (英語)</key>
+			<string></string>
+			<key>声 (ロシア語)</key>
+			<string></string>
+			<key>声 (ドイツ語)</key>
+			<string></string>
+		</dict>
+		<key>その他</key>
+		<dict>
+			<key>Sfx Mod Pack 効果音</key>
+			<string></string>
+			<key>ハンガー環境音</key>
+			<string></string>
+			<key>軽量環境音</key>
+			<string></string>
+			<key>継続高校 スポットタイマー by 6lucky</key>
+			<string></string>
+			<key>イ401 スポットタイマー by 6lucky</key>
+			<string></string>
+			<key>ベルエンジェル スポットタイマー by 6lucky</key>
+			<string></string>
+			<key>水瀬いのり スポットタイマー</key>
+			<string></string>
+		</dict>
+	</dict>
+</dict>
+</plist>
