@@ -160,7 +160,7 @@
 			<key>Lightweight Environmental Sound:lightweight</key>
 			<string></string>
 		</dict>
-		<key>Voice (for Japanese setting):voice</key>
+		<key>Voice (Japanese environment):voice</key>
 		<dict>
 			<key>Sfx Mod Pack Voice:modpack</key>
 			<string></string>
