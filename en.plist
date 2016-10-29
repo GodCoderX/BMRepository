@@ -62,7 +62,7 @@
 			<key>Gfx Mod Pack Hangar Skin:modpack</key>
 			<string></string>
 		</dict>
-		<key>Tier / Vehicle Icon:icon</key>
+		<key>Tier Icon / Vehicle Icon:icon</key>
 		<dict>
 			<key>Colored Tier Icon:color_tier</key>
 			<string></string>
