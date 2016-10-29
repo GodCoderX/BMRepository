@@ -50,11 +50,11 @@
 			<string></string>
 			<key>Visible Range (High Tier):visiblerange_high</key>
 			<string></string>
-			<key>Color Minimap by Freewheeler:color_minimap</key>
-			<string></string>
 			<key>NeXT VisibleRange (Middle Tier) by Freewheeler:next_visiblerange_middle</key>
 			<string></string>
 			<key>NeXT VisibleRange (High Tier) by Freewheeler:next_visiblerange_high</key>
+			<string></string>
+			<key>Color Minimap by Freewheeler:color_minimap</key>
 			<string></string>
 		</dict>
 		<key>Hangar Skin:hangar</key>
@@ -124,9 +124,9 @@
 			<string></string>
 			<key>Old Type Joystick:old_joystick</key>
 			<string></string>
-			<key>Colored Ammunition:color_ammo</key>
-			<string></string>
 			<key>Flat UI Buttons:flat_button</key>
+			<string></string>
+			<key>Colored Ammunition:color_ammo</key>
 			<string></string>
 			<key>Circle type loading gauge:circle_loading</key>
 			<string></string>
@@ -180,6 +180,8 @@
 			<string></string>
 			<key>Nonna and Katyusha Voice:nonna_katyusha</key>
 			<string></string>
+			<key>Maho Voice by suika:maho</key>
+			<string></string>
 			<key>Ahirusan Team Voice:ahirusan</key>
 			<string></string>
 			<key>Nishi Voice (Original):nishi</key>
@@ -200,7 +202,16 @@
 			<string></string>
 			<key>War Thunder Voice by 6lucky:warthunder</key>
 			<string></string>
-			<key>Maho Voice by suika:maho</key>
+		</dict>
+		<key>Spot Timer:spot_timer</key>
+		<dict>
+			<key>Keizoku Spot Timer by 6lucky:keizoku</key>
+			<string></string>
+			<key>E401 Spot Timer by 6lucky:e401</key>
+			<string></string>
+			<key>Bell Angel Spot Timer by 6lucky:bell_angel</key>
+			<string></string>
+			<key>Inori Minase Spot Timer:inori_minase</key>
 			<string></string>
 		</dict>
 		<key>BGM:bgm</key>
@@ -253,17 +264,6 @@
 			<key>Voice (Russian):voice_ru</key>
 			<string></string>
 			<key>Voice (German):voice_de</key>
-			<string></string>
-		</dict>
-		<key>Spot Timer:spot_timer</key>
-		<dict>
-			<key>Keizoku Spot Timer by 6lucky:keizoku</key>
-			<string></string>
-			<key>E401 Spot Timer by 6lucky:e401</key>
-			<string></string>
-			<key>Bell Angel Spot Timer by 6lucky:bell_angel</key>
-			<string></string>
-			<key>Inori Minase Spot Timer:inori_minase</key>
 			<string></string>
 		</dict>
 	</dict>
