@@ -134,11 +134,11 @@
 	</dict>
 	<key>Sfx Mod:sfx</key>
 	<dict>
-		<key>攻撃音:gun</key>
+		<key>砲撃音:gun</key>
 		<dict>
-			<key>Sfx Mod Pack 攻撃音:modpack</key>
+			<key>Sfx Mod Pack 砲撃音:modpack</key>
 			<string></string>
-			<key>War Thunder 攻撃音:warthunder</key>
+			<key>War Thunder 砲撃音:warthunder</key>
 			<string></string>
 		</dict>
 		<key>被弾音:hit</key>
