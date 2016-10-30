@@ -41,7 +41,7 @@
 		</dict>
 		<key>車輌スキン:tank</key>
 		<dict>
-			<key>透明迷彩:camouflage</key>
+			<key>透明迷彩:transparent_camouflage</key>
 			<string></string>
 		</dict>
 		<key>ミニマップ:minimap</key>

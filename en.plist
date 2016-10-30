@@ -41,7 +41,7 @@
 		</dict>
 		<key>Tank Skin:tank</key>
 		<dict>
-			<key>Transparent Camouflage:camouflage</key>
+			<key>Transparent Camouflage:transparent_camouflage</key>
 			<string></string>
 		</dict>
 		<key>Minimap:minimap</key>
