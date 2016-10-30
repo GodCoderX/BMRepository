@@ -13,3 +13,7 @@ h3{
     -o-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
     -ms-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
 }
+
+body{
+	font-family : "HiraKakuProN-W6", "\30D2\30E9\30AE\30CE\89D2\30B4 ProN W6",  Meiryo, "\30E1\30A4\30EA\30AA", sans-serif;
+}
