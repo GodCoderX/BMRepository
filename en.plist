@@ -26,17 +26,17 @@
 			<string></string>
 			<key>Square Type 3 (Sniper):square3_sniper</key>
 			<string></string>
-			<key>BF4 Modern Tank by 6lucky:bf4_modern_tank</key>
+			<key>BF4 Modern Tank:bf4_modern_tank</key>
 			<string></string>
-			<key>PC Sight by 6lucky:pcsight</key>
+			<key>PC Sight:pcsight</key>
 			<string></string>
-			<key>AuC GunSight by Freewheeler:auc_gunsight</key>
+			<key>AuC GunSight:auc_gunsight</key>
 			<string></string>
-			<key>No HUD by PixelRage:no_hud</key>
+			<key>No HUD:no_hud</key>
 			<string></string>
-			<key>Reticle Mod 1 by kAEdE:kaede1</key>
+			<key>kAEdE Type 1:kaede1</key>
 			<string></string>
-			<key>Reticle Mod 2 by kAEdE:kaede2</key>
+			<key>kAEdE Type 2:kaede2</key>
 			<string></string>
 		</dict>
 		<key>Tank Skin:tank</key>
@@ -50,11 +50,11 @@
 			<string></string>
 			<key>Visible Range (High Tier):visiblerange_high</key>
 			<string></string>
-			<key>NeXT VisibleRange (Middle Tier) by Freewheeler:next_visiblerange_middle</key>
+			<key>NeXT VisibleRange (Middle Tier):next_visiblerange_middle</key>
 			<string></string>
-			<key>NeXT VisibleRange (High Tier) by Freewheeler:next_visiblerange_high</key>
+			<key>NeXT VisibleRange (High Tier):next_visiblerange_high</key>
 			<string></string>
-			<key>Color Minimap by Freewheeler:color_minimap</key>
+			<key>Color Minimap:color_minimap</key>
 			<string></string>
 		</dict>
 		<key>Hangar Skin:hangar</key>
@@ -86,29 +86,29 @@
 		<dict>
 			<key>Gfx Mod Pack Ballistic Skin:modpack</key>
 			<string></string>
-			<key>Lazer Black by PixelRage:lazer_black</key>
+			<key>Lazer Black:lazer_black</key>
 			<string></string>
-			<key>Lazer Blue by PixelRage:lazer_blue</key>
+			<key>Lazer Blue:lazer_blue</key>
 			<string></string>
-			<key>Lazer Mod Green by PixelRage:lazer_green</key>
+			<key>Lazer Green:lazer_green</key>
 			<string></string>
-			<key>Lazer Mod Orange by PixelRage:lazer_orange</key>
+			<key>Lazer Orange:lazer_orange</key>
 			<string></string>
-			<key>Lazer Mod Pink by PixelRage:lazer_pink</key>
+			<key>Lazer Pink:lazer_pink</key>
 			<string></string>
-			<key>Lazer Mod Potato by PixelRage:lazer_potato</key>
+			<key>Lazer Potato:lazer_potato</key>
 			<string></string>
-			<key>Lazer Mod Purple by PixelRage:lazer_purple</key>
+			<key>Lazer Purple:lazer_purple</key>
 			<string></string>
-			<key>Lazer Mod Rainbow1 by PixelRage:lazer_rainbow1</key>
+			<key>Lazer Rainbow1:lazer_rainbow1</key>
 			<string></string>
-			<key>Lazer Mod Rainbow2 by PixelRage:lazer_rainbow2</key>
+			<key>Lazer Rainbow2:lazer_rainbow2</key>
 			<string></string>
-			<key>Lazer Mod Red by PixelRage:lazer_red</key>
+			<key>Lazer Red:lazer_red</key>
 			<string></string>
-			<key>Lazer Mod White by PixelRage:lazer_white</key>
+			<key>Lazer White:lazer_white</key>
 			<string></string>
-			<key>Lazer Mod Yellow by PixelRage:lazer_yellow</key>
+			<key>Lazer Yellow:lazer_yellow</key>
 			<string></string>
 		</dict>
 		<key>Sixth Sense:sixth</key>
@@ -180,36 +180,36 @@
 			<string></string>
 			<key>Nonna and Katyusha Voice:nonna_katyusha</key>
 			<string></string>
-			<key>Maho Voice by suika:maho</key>
+			<key>Maho Voice:maho</key>
 			<string></string>
 			<key>Ahirusan Team Voice:ahirusan</key>
 			<string></string>
-			<key>Nishi Voice (Original):nishi</key>
+			<key>Nishi Voice:nishi</key>
 			<string></string>
 			<key>Nishi Voice (Modified):nishi_modified</key>
 			<string></string>
-			<key>Kabasan Team Voice by 6lucky:kabasan</key>
+			<key>Kabasan Team Voice:kabasan</key>
 			<string></string>
-			<key>Keizoku Voice by 6lucky:keizoku</key>
+			<key>Keizoku Voice:keizoku</key>
 			<string></string>
-			<key>Pravda Voice (CV:Tetsuo) by 6lucky:pravda</key>
+			<key>Pravda Voice (CV Tetsuo):pravda_tetsuo</key>
 			<string></string>
-			<key>E401 Voice by 6lucky:e401</key>
+			<key>E401 Voice:e401</key>
 			<string></string>
-			<key>Mikakunin De Sinkoukei Voice by 6lucky:mikakunin</key>
+			<key>Mikakunin De Sinkoukei Voice:mikakunin</key>
 			<string></string>
-			<key>Yuru Yuri Voice by 6lucky:yuruyuri</key>
+			<key>Yuru Yuri Voice:yuruyuri</key>
 			<string></string>
-			<key>War Thunder Voice by 6lucky:warthunder</key>
+			<key>War Thunder Voice:warthunder</key>
 			<string></string>
 		</dict>
 		<key>Spot Timer:spot_timer</key>
 		<dict>
-			<key>Keizoku Spot Timer by 6lucky:keizoku</key>
+			<key>Keizoku Spot Timer:keizoku</key>
 			<string></string>
-			<key>E401 Spot Timer by 6lucky:e401</key>
+			<key>E401 Spot Timer:e401</key>
 			<string></string>
-			<key>Bell Angel Spot Timer by 6lucky:bell_angel</key>
+			<key>Bell Angel Spot Timer:bell_angel</key>
 			<string></string>
 			<key>Inori Minase Spot Timer:inori_minase</key>
 			<string></string>
@@ -218,13 +218,13 @@
 		<dict>
 			<key>Sfx Mod Pack BGM:modpack</key>
 			<string></string>
-			<key>GuP Movie BGM by 6lucky:gup_movie</key>
+			<key>GuP Movie BGM:gup_movie</key>
 			<string></string>
-			<key>Blue Steel BGM by 6lucky:blue_steel</key>
+			<key>Blue Steel BGM:blue_steel</key>
 			<string></string>
-			<key>Sakkijarven polkka Garage BGM by 6lucky:sakkijarven_polkka</key>
+			<key>Sakkijarven polkka Garage BGM:sakkijarven_polkka</key>
 			<string></string>
-			<key>Sakkijarven polkka (Remix) Garage BGM by 6lucky:sakkijarven_polkka_remix</key>
+			<key>Sakkijarven polkka (Remix) Garage BGM:sakkijarven_polkka_remix</key>
 			<string></string>
 		</dict>
 		<key>Loading Completion Sound:loaded</key>

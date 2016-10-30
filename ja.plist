@@ -6,37 +6,37 @@
 	<dict>
 		<key>レティクル:reticle</key>
 		<dict>
-			<key>HUDタイプ:hud</key>
+			<key>HUD:hud</key>
 			<string></string>
-			<key>Circleタイプ 1:circle1</key>
+			<key>Circle タイプ1:circle1</key>
 			<string></string>
-			<key>Circleタイプ 2:circle2</key>
+			<key>Circle タイプ2:circle2</key>
 			<string></string>
-			<key>Circleタイプ 3:circle3</key>
+			<key>Circle タイプ3:circle3</key>
 			<string></string>
-			<key>Squareタイプ 1:square1</key>
+			<key>Square タイプ1:square1</key>
 			<string></string>
-			<key>Squareタイプ 1 (スナイパー):square1_sniper</key>
+			<key>Square タイプ1 (スナイパー):square1_sniper</key>
 			<string></string>
-			<key>Squareタイプ 2:square2</key>
+			<key>Square タイプ2:square2</key>
 			<string></string>
-			<key>Squareタイプ 2 (スナイパー):square2_sniper</key>
+			<key>Square タイプ2 (スナイパー):square2_sniper</key>
 			<string></string>
-			<key>Squareタイプ 3:square3</key>
+			<key>Square タイプ3:square3</key>
 			<string></string>
-			<key>Squareタイプ 3 (スナイパー):square3_sniper</key>
+			<key>Square タイプ3 (スナイパー):square3_sniper</key>
 			<string></string>
-			<key>BF4現代戦車 by 6lucky:bf4_modern_tank</key>
+			<key>BF4現代戦車:bf4_modern_tank</key>
 			<string></string>
-			<key>PC Sight by 6lucky:pcsight</key>
+			<key>PC Sight:pcsight</key>
 			<string></string>
-			<key>AuC GunSight by Freewheeler:auc_gunsight</key>
+			<key>AuC GunSight:auc_gunsight</key>
 			<string></string>
-			<key>No HUD by PixelRage:no_hud</key>
+			<key>No HUD:no_hud</key>
 			<string></string>
-			<key>照準Mod 1 by kAEdE:kaede1</key>
+			<key>kAEdE タイプ1:kaede1</key>
 			<string></string>
-			<key>照準Mod 2 by kAEdE:kaede2</key>
+			<key>kAEdE タイプ2:kaede2</key>
 			<string></string>
 		</dict>
 		<key>車輌スキン:tank</key>
@@ -50,11 +50,11 @@
 			<string></string>
 			<key>視界範囲円 (高Tier):visiblerange_high</key>
 			<string></string>
-			<key>NeXT VisibleRange (中Tier) by Freewheeler:next_visiblerange_middle</key>
+			<key>NeXT VisibleRange (中Tier):next_visiblerange_middle</key>
 			<string></string>
-			<key>NeXT VisibleRange (高Tier) by Freewheeler:next_visiblerange_high</key>
+			<key>NeXT VisibleRange (高Tier):next_visiblerange_high</key>
 			<string></string>
-			<key>カラーミニマップ by Freewheeler:color_minimap</key>
+			<key>カラーミニマップ:color_minimap</key>
 			<string></string>
 		</dict>
 		<key>ハンガースキン:hangar</key>
@@ -86,29 +86,29 @@
 		<dict>
 			<key>Gfx Mod Pack 弾道表示スキン:modpack</key>
 			<string></string>
-			<key>レーザー黒 by PixelRage:lazer_black</key>
+			<key>レーザー黒:lazer_black</key>
 			<string></string>
-			<key>レーザー青 by PixelRage:lazer_blue</key>
+			<key>レーザー青:lazer_blue</key>
 			<string></string>
-			<key>レーザー緑 by PixelRage:lazer_green</key>
+			<key>レーザー緑:lazer_green</key>
 			<string></string>
-			<key>レーザー橙 by PixelRage:lazer_orange</key>
+			<key>レーザー橙:lazer_orange</key>
 			<string></string>
-			<key>レーザー桃 by PixelRage:lazer_pink</key>
+			<key>レーザー桃:lazer_pink</key>
 			<string></string>
-			<key>レーザー茶 by PixelRage:lazer_potato</key>
+			<key>レーザー茶:lazer_potato</key>
 			<string></string>
-			<key>レーザー紫 by PixelRage:lazer_purple</key>
+			<key>レーザー紫:lazer_purple</key>
 			<string></string>
-			<key>レーザー虹1 by PixelRage:lazer_rainbow1</key>
+			<key>レーザー虹1:lazer_rainbow1</key>
 			<string></string>
-			<key>レーザー虹2 by PixelRage:lazer_rainbow2</key>
+			<key>レーザー虹2:lazer_rainbow2</key>
 			<string></string>
-			<key>レーザー赤 by PixelRage:lazer_red</key>
+			<key>レーザー赤:lazer_red</key>
 			<string></string>
-			<key>レーザー白 by PixelRage:lazer_white</key>
+			<key>レーザー白:lazer_white</key>
 			<string></string>
-			<key>レーザー黄 by PixelRage:lazer_yellow</key>
+			<key>レーザー黄:lazer_yellow</key>
 			<string></string>
 		</dict>
 		<key>第六感:sixth</key>
@@ -160,7 +160,7 @@
 			<key>軽量環境音:lightweight</key>
 			<string></string>
 		</dict>
-		<key>ボイス(日本語環境用):voice</key>
+		<key>ボイス (日本語環境用):voice</key>
 		<dict>
 			<key>Sfx Mod Pack ボイス:modpack</key>
 			<string></string>
@@ -180,36 +180,36 @@
 			<string></string>
 			<key>ノンナ&amp;カチューシャボイス:nonna_katyusha</key>
 			<string></string>
-			<key>まほボイス by suika:maho</key>
+			<key>まほボイス:maho</key>
 			<string></string>
-			<key>西隊長ボイス (オリジナル):nishi</key>
+			<key>西隊長ボイス:nishi</key>
 			<string></string>
 			<key>西隊長ボイス (修正版):nishi_modified</key>
 			<string></string>
 			<key>アヒルさんチームボイス:ahirusan</key>
 			<string></string>
-			<key>カバさんチームボイス by 6lucky:kabasan</key>
+			<key>カバさんチームボイス:kabasan</key>
 			<string></string>
-			<key>継続高校ボイス by 6lucky:keizoku</key>
+			<key>継続高校ボイス:keizoku</key>
 			<string></string>
-			<key>プラウダ高校ボイス (CV:てつお) by 6lucky:pravda</key>
+			<key>プラウダ高校ボイス (CV てつお):pravda_tetsuo</key>
 			<string></string>
-			<key>イ401ボイス by 6lucky:e401</key>
+			<key>イ401ボイス:e401</key>
 			<string></string>
-			<key>未確認で進行形ボイス by 6lucky:mikakunin</key>
+			<key>未確認で進行形ボイス:mikakunin</key>
 			<string></string>
-			<key>ゆるゆりボイス by 6lucky:yuruyuri</key>
+			<key>ゆるゆりボイス:yuruyuri</key>
 			<string></string>
-			<key>War Thunder ボイス by 6lucky:warthunder</key>
+			<key>War Thunder ボイス:warthunder</key>
 			<string></string>
 		</dict>
 		<key>スポットタイマー:spot_timer</key>
 		<dict>
-			<key>継続高校スポットタイマー by 6lucky:keizoku</key>
+			<key>継続高校スポットタイマー:keizoku</key>
 			<string></string>
-			<key>イ401スポットタイマー by 6lucky:e401</key>
+			<key>イ401スポットタイマー:e401</key>
 			<string></string>
-			<key>ベルエンジェルスポットタイマー by 6lucky:bell_angel</key>
+			<key>ベルエンジェルスポットタイマー:bell_angel</key>
 			<string></string>
 			<key>水瀬いのりスポットタイマー:inori_minase</key>
 			<string></string>
@@ -218,36 +218,36 @@
 		<dict>
 			<key>Sfx Mod Pack BGM:modpack</key>
 			<string></string>
-			<key>ガルパン映画 BGM by 6lucky:gup_movie</key>
+			<key>ガルパン映画 BGM:gup_movie</key>
 			<string></string>
-			<key>Blue Steel BGM by 6lucky:blue_steel</key>
+			<key>Blue Steel BGM:blue_steel</key>
 			<string></string>
-			<key>Sakkijarven polkka ガレージBGM by 6lucky:sakkijarven_polkka</key>
+			<key>Sakkijarven polkka ガレージBGM:sakkijarven_polkka</key>
 			<string></string>
-			<key>Sakkijarven polkka (Remix) ガレージBGM by 6lucky:sakkijarven_polkka_remix</key>
+			<key>Sakkijarven polkka (Remix) ガレージBGM:sakkijarven_polkka_remix</key>
 			<string></string>
 		</dict>
 		<key>装填完了音:loaded</key>
 		<dict>
-			<key>音タイプ 1:sound1</key>
+			<key>音 タイプ1:sound1</key>
 			<string></string>
-			<key>音タイプ 2:sound2</key>
+			<key>音 タイプ2:sound2</key>
 			<string></string>
-			<key>音タイプ 3:sound3</key>
+			<key>音 タイプ3:sound3</key>
 			<string></string>
-			<key>音タイプ 4:sound4</key>
+			<key>音 タイプ4:sound4</key>
 			<string></string>
-			<key>音タイプ 5:sound5</key>
+			<key>音 タイプ5:sound5</key>
 			<string></string>
-			<key>音タイプ 6:sound6</key>
+			<key>音 タイプ6:sound6</key>
 			<string></string>
-			<key>音タイプ 7:sound7</key>
+			<key>音 タイプ7:sound7</key>
 			<string></string>
-			<key>音タイプ 8:sound8</key>
+			<key>音 タイプ8:sound8</key>
 			<string></string>
-			<key>音タイプ 9:sound9</key>
+			<key>音 タイプ9:sound9</key>
 			<string></string>
-			<key>音タイプ 10:sound10</key>
+			<key>音 タイプ10:sound10</key>
 			<string></string>
 			<key>音＆ボイス (日本語):sound_voice_ja</key>
 			<string></string>
