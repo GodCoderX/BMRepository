@@ -19,33 +19,32 @@ fi
 
 cwd=`dirname ${0}`
 expr "${0}" : "/.*" > /dev/null || cwd=`(cd "${cwd}" && pwd)`
+
 cd ${cwd}
 find Install -name "*.zip" | while read InstallZip
 do
 	echo "Processing "${InstallZip}" ..."
-	InstallDir="Install"
 	RemoveZip=`echo "Remove/"${InstallZip#*/}`
-	RemoveDir="Remove"
 	cd ${cwd}
-	cd ${InstallDir}
+	cd Install
 	unzip ${InstallZip#*/} > /dev/null
 	find Data -type f | while read FileName
 	do
 		cd ${cwd}
-		echo "-- "${InstallDir}"/"${FileName}
+		echo "-- Install/"${FileName}
 		FileName=`escape ${FileName}`
 		if [ -e ${FileName} ]; then
-			FilePath="${RemoveDir}/${FileName}"
+			FilePath="Remove/""${FileName}"
 			mkdir -p "${FilePath%/*}"
 			cp "${FileName}" "${FilePath}"
 		fi
 	done
 	cd ${cwd}
-	cd ${InstallDir}
+	cd Install
 	rm -rf Data
 	cd ${cwd}
-	cd ${RemoveDir}
-	echo "Archiving ${InstallZip%/*}"
+	cd Remove
+	echo "Archiving ${InstallZip#*/}"
 	zip -r ${InstallZip#*/} Data > /dev/null
 	rm -rf Data
 	cd ${cwd}
