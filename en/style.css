@@ -23,12 +23,9 @@ body{
 
 ul {
     list-style: disc;
-    margin: 0 0 2px 2.5em;
+    margin: 0 0 1px 1em;
 }
-ol {
-    list-style: decimal;
-    margin: 0 0 2px 2em;
-}
+
 li {
     margin: 0 0 4px 0em;
     line-height: 120%;
