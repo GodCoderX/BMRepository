@@ -20,3 +20,16 @@ body{
 	font-family : "HiraKakuProN-W3", "\30D2\30E9\30AE\30CE\89D2\30B4 ProN W3",  Meiryo, "\30E1\30A4\30EA\30AA", sans-serif;
 	font-size: small;
 }
+
+ul {
+    list-style: disc;
+    margin: 0 0 2px 2.5em;
+}
+ol {
+    list-style: decimal;
+    margin: 0 0 2px 2em;
+}
+li {
+    margin: 0 0 4px 0em;
+    line-height: 120%;
+}
