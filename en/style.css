@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-h3{
+h3 {
     margin: 0 0 1.5em;
     padding: 0.8em;
     font-size: 1.143em;
@@ -16,7 +16,7 @@ h3{
     -ms-box-shadow: 0 5px 4px -4px rgba(0,0,0,0.3) inset;
 }
 
-body{
+body {
 	font-family : "HiraKakuProN-W3", "\30D2\30E9\30AE\30CE\89D2\30B4 ProN W3",  Meiryo, "\30E1\30A4\30EA\30AA", sans-serif;
 	font-size: small;
 }
