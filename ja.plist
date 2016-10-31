@@ -164,6 +164,26 @@
 		<dict>
 			<key>Sfx Mod Pack ボイス:modpack</key>
 			<string></string>
+			<key>War Thunder ボイス:warthunder</key>
+			<string></string>
+			<key>Battle Field 4 ボイス:bf4_no_bgm</key>
+			<string></string>
+			<key>Battle Field 4 BGMつきボイス:bf4_original_bgm</key>
+			<string></string>
+			<key>Battle Field 4 DLC BGMつきボイス:bf4_dlc_bgm</key>
+			<string></string>
+			<key>Battle Field ランダムBGMつきボイス:bf_random_bgm</key>
+			<string></string>
+			<key>本家ボイス(日本語):pc_ja</key>
+			<string></string>
+			<key>本家ボイス(アメリカ英語):pc_en</key>
+			<string></string>
+			<key>本家ボイス(イギリス英語):pc_uk</key>
+			<string></string>
+			<key>本家ボイス(ロシア語):pc_ru</key>
+			<string></string>
+			<key>本家ボイス(ドイツ語):pc_de</key>
+			<string></string>
 			<key>みほボイス:miho</key>
 			<string></string>
 			<key>ゆかりボイス:yukari</key>
@@ -186,6 +206,8 @@
 			<string></string>
 			<key>西隊長ボイス (修正版):nishi_modified</key>
 			<string></string>
+			<key>あんこうチームボイス:anko</key>
+			<string></string>
 			<key>アヒルさんチームボイス:ahirusan</key>
 			<string></string>
 			<key>カバさんチームボイス:kabasan</key>
@@ -200,7 +222,9 @@
 			<string></string>
 			<key>ゆるゆりボイス:yuruyuri</key>
 			<string></string>
-			<key>War Thunder ボイス:warthunder</key>
+			<key>友利奈緒ボイス:tomori_nao</key>
+			<string></string>
+			<key>エイラーニャボイス:eila-nya</key>
 			<string></string>
 		</dict>
 		<key>スポットタイマー:spot_timer</key>

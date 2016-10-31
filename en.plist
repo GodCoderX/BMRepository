@@ -160,9 +160,29 @@
 			<key>Lightweight Environmental Sound:lightweight</key>
 			<string></string>
 		</dict>
-		<key>Voice (Japanese environment):voice</key>
+		<key>Voice (for Japanese environment):voice</key>
 		<dict>
 			<key>Sfx Mod Pack Voice:modpack</key>
+			<string></string>
+			<key>War Thunder Voice:warthunder</key>
+			<string></string>
+			<key>Battle Field 4 Voice:bf4_no_bgm</key>
+			<string></string>
+			<key>Battle Field 4 Voice with BGM:bf4_original_bgm</key>
+			<string></string>
+			<key>Battle Field 4 Voice with DLC BGM:bf4_dlc_bgm</key>
+			<string></string>
+			<key>Battle Field Voice with Random BGM:bf_random_bgm</key>
+			<string></string>
+			<key>PC Voice (Japanese):pc_ja</key>
+			<string></string>
+			<key>PC Voice (American English):pc_en</key>
+			<string></string>
+			<key>PC Voice (British English):pc_uk</key>
+			<string></string>
+			<key>PC Voice (Russian):pc_ru</key>
+			<string></string>
+			<key>PC Voice (German):pc_de</key>
 			<string></string>
 			<key>Miho Voice:miho</key>
 			<string></string>
@@ -182,15 +202,17 @@
 			<string></string>
 			<key>Maho Voice:maho</key>
 			<string></string>
-			<key>Ahirusan Team Voice:ahirusan</key>
-			<string></string>
 			<key>Nishi Voice:nishi</key>
 			<string></string>
 			<key>Nishi Voice (Modified):nishi_modified</key>
 			<string></string>
+			<key>Anko Team Voice:anko</key>
+			<string></string>
+			<key>Ahirusan Team Voice:ahirusan</key>
+			<string></string>
 			<key>Kabasan Team Voice:kabasan</key>
 			<string></string>
-			<key>Keizoku Voice:keizoku</key>
+			<key>Keizoku High School Voice:keizoku</key>
 			<string></string>
 			<key>Pravda Voice (CV Tetsuo):pravda_tetsuo</key>
 			<string></string>
@@ -200,7 +222,9 @@
 			<string></string>
 			<key>Yuru Yuri Voice:yuruyuri</key>
 			<string></string>
-			<key>War Thunder Voice:warthunder</key>
+			<key>Tomori Nao Voice:tomori_nao</key>
+			<string></string>
+			<key>Eila-nya Voice:eila-nya</key>
 			<string></string>
 		</dict>
 		<key>Spot Timer:spot_timer</key>
