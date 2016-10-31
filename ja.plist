@@ -166,13 +166,7 @@
 			<string></string>
 			<key>War Thunder ボイス:warthunder</key>
 			<string></string>
-			<key>Battle Field 4 ボイス:bf4_no_bgm</key>
-			<string></string>
-			<key>Battle Field 4 BGMつきボイス:bf4_original_bgm</key>
-			<string></string>
-			<key>Battle Field 4 DLC BGMつきボイス:bf4_dlc_bgm</key>
-			<string></string>
-			<key>Battle Field ランダムBGMつきボイス:bf_random_bgm</key>
+			<key>Battle Field 4 ボイス:bf4</key>
 			<string></string>
 			<key>本家ボイス(日本語):pc_ja</key>
 			<string></string>
