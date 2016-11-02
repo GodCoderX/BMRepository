@@ -38,10 +38,22 @@
 			<string></string>
 			<key>kAEdE Type 2:kaede2</key>
 			<string></string>
+			<key>kAEdE Type 3:kaede3</key>
+			<string></string>
+			<key>MeltyMaps:meltymaps</key>
+			<string></string>
+			<key>Red Green:red_green</key>
+			<string></string>
 		</dict>
-		<key>Tank Skin:tank</key>
+		<key>Tank Skin:tank_skin</key>
 		<dict>
-			<key>Transparent Camouflage:transparent_camouflage</key>
+			<key>Transparent Camouflage:transparent</key>
+			<string></string>
+			<key>Anime Itasensha:itasensha</key>
+			<string></string>
+			<key>Girls und Panzer:gup</key>
+			<string></string>
+			<key>Pravda Winter:pravda_winter</key>
 			<string></string>
 		</dict>
 		<key>Minimap:minimap</key>
@@ -111,9 +123,21 @@
 			<key>Lazer Yellow:lazer_yellow</key>
 			<string></string>
 		</dict>
-		<key>Sixth Sense:sixth</key>
+		<key>Sixth Sense:sixth_sense</key>
 		<dict>
-			<key>Eva Type:eva</key>
+			<key>Evangelion:evangelion</key>
+			<string></string>
+			<key>KanColle Bismark:kancolle_bismark</key>
+			<string></string>
+			<key>Miho:miho</key>
+			<string></string>
+			<key>SAO Klein:sao_klein</key>
+			<string></string>
+			<key>Quickybaby:quickybaby</key>
+			<string></string>
+			<key>Danger Close:danger_close</key>
+			<string></string>
+			<key>Admiral Ackbar:admiral_ackbar</key>
 			<string></string>
 		</dict>
 		<key>Others:others</key>
@@ -130,6 +154,8 @@
 			<string></string>
 			<key>Circle type loading gauge:circle_loading</key>
 			<string></string>
+			<key>GuP Battle Loading Screen:gup_battle_loading</key>
+			<string></string>
 		</dict>
 	</dict>
 	<key>Sfx Mods:sfx</key>
@@ -140,10 +166,18 @@
 			<string></string>
 			<key>War Thunder Gun Sound:warthunder</key>
 			<string></string>
+			<key>Old PC Gun Sound:pc_old</key>
+			<string></string>
+			<key>New PC Gun Sound (9.14):pc_914</key>
+			<string></string>
+			<key>New PC Gun Sound (9.16):pc_916</key>
+			<string></string>
 		</dict>
 		<key>Hit Sound:hit</key>
 		<dict>
 			<key>Sfx Mod Pack Hit Sound:modpack</key>
+			<string></string>
+			<key>Old PC Hit Sound:pc_old</key>
 			<string></string>
 		</dict>
 		<key>Engine Sound:engine</key>
@@ -221,7 +255,7 @@
 			<key>Eila-nya Voice:eila-nya</key>
 			<string></string>
 		</dict>
-		<key>Spot Timer:spot_timer</key>
+		<key>Sixth Sense:sixth_sense</key>
 		<dict>
 			<key>Keizoku Spot Timer:keizoku</key>
 			<string></string>
@@ -230,6 +264,8 @@
 			<key>Bell Angel Spot Timer:bell_angel</key>
 			<string></string>
 			<key>Inori Minase Spot Timer:inori_minase</key>
+			<string></string>
+			<key>Metal Gear Sixth Sense:metal_gear</key>
 			<string></string>
 		</dict>
 		<key>BGM:bgm</key>
@@ -282,6 +318,11 @@
 			<key>Voice (Russian):voice_ru</key>
 			<string></string>
 			<key>Voice (German):voice_de</key>
+			<string></string>
+		</dict>
+		<key>Others</key>
+		<dict>
+			<key>GUI-Sfx Mod:gui_sfx</key>
 			<string></string>
 		</dict>
 	</dict>

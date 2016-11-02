@@ -38,10 +38,22 @@
 			<string></string>
 			<key>kAEdE タイプ2:kaede2</key>
 			<string></string>
+			<key>kAEdE タイプ3:kaede3</key>
+			<string></string>
+			<key>MeltyMaps:meltymaps</key>
+			<string></string>
+			<key>Red Green:red_green</key>
+			<string></string>
 		</dict>
-		<key>車輌スキン:tank</key>
+		<key>車輌スキン:tank_skin</key>
 		<dict>
-			<key>透明迷彩:transparent_camouflage</key>
+			<key>透明迷彩:transparent</key>
+			<string></string>
+			<key>アニメ 痛戦車スキン:itasensha</key>
+			<string></string>
+			<key>ガルパンスキン:gup</key>
+			<string></string>
+			<key>冬のプラウダスキン:pravda_winter</key>
 			<string></string>
 		</dict>
 		<key>ミニマップ:minimap</key>
@@ -111,9 +123,21 @@
 			<key>レーザー黄:lazer_yellow</key>
 			<string></string>
 		</dict>
-		<key>第六感:sixth</key>
+		<key>第六感:sixth_sense</key>
 		<dict>
-			<key>エヴァタイプ:eva</key>
+			<key>エヴァンゲリオン:evangelion</key>
+			<string></string>
+			<key>艦これ ビスマルク:kancolle_bismark</key>
+			<string></string>
+			<key>みほ:miho</key>
+			<string></string>
+			<key>SAO クライン:sao_klein</key>
+			<string></string>
+			<key>Quickybaby:quickybaby</key>
+			<string></string>
+			<key>Danger Close:danger_close</key>
+			<string></string>
+			<key>アクバー提督:admiral_ackbar</key>
 			<string></string>
 		</dict>
 		<key>その他:others</key>
@@ -130,6 +154,8 @@
 			<string></string>
 			<key>円形装填ゲージ:circle_loading</key>
 			<string></string>
+			<key>ガルパン戦闘読み込み画面:gup_battle_loading</key>
+			<string></string>
 		</dict>
 	</dict>
 	<key>Sfx Mod:sfx</key>
@@ -140,10 +166,18 @@
 			<string></string>
 			<key>War Thunder 砲撃音:warthunder</key>
 			<string></string>
+			<key>PC版 旧砲撃音:pc_old</key>
+			<string></string>
+			<key>PC版 新砲撃音(9.14):pc_914</key>
+			<string></string>
+			<key>PC版 新砲撃音(9.16):pc_916</key>
+			<string></string>
 		</dict>
 		<key>被弾音:hit</key>
 		<dict>
 			<key>Sfx Mod Pack 被弾音:modpack</key>
+			<string></string>
+			<key>PC版 旧被弾音:pc_old</key>
 			<string></string>
 		</dict>
 		<key>エンジン音:engine</key>
@@ -221,7 +255,7 @@
 			<key>エイラーニャボイス:eila-nya</key>
 			<string></string>
 		</dict>
-		<key>スポットタイマー:spot_timer</key>
+		<key>第六感:sixth_sense</key>
 		<dict>
 			<key>継続高校スポットタイマー:keizoku</key>
 			<string></string>
@@ -230,6 +264,8 @@
 			<key>ベルエンジェルスポットタイマー:bell_angel</key>
 			<string></string>
 			<key>水瀬いのりスポットタイマー:inori_minase</key>
+			<string></string>
+			<key>メタルギア:metal_gear</key>
 			<string></string>
 		</dict>
 		<key>BGM:bgm</key>
@@ -282,6 +318,11 @@
 			<key>ボイス (ロシア語):voice_ru</key>
 			<string></string>
 			<key>ボイス (ドイツ語):voice_de</key>
+			<string></string>
+		</dict>
+		<key>その他:others</key>
+		<dict>
+			<key>GUI-Sfx Mod:gui_sfx</key>
 			<string></string>
 		</dict>
 	</dict>
