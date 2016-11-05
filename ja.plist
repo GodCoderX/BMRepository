@@ -45,7 +45,7 @@
 			<key>Red Green:red_green</key>
 			<string></string>
 		</dict>
-		<key>車輌スキン:tank_skin</key>
+		<key>戦車スキン:tank_skin</key>
 		<dict>
 			<key>透明迷彩:transparent</key>
 			<string></string>
@@ -74,7 +74,7 @@
 			<key>Gfx Mod Pack ハンガースキン:modpack</key>
 			<string></string>
 		</dict>
-		<key>Tierアイコン / 車輌アイコン:icon</key>
+		<key>Tierアイコン / 戦車アイコン:icon</key>
 		<dict>
 			<key>カラーTierアイコン:color_tier</key>
 			<string></string>
