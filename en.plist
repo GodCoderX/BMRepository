@@ -157,6 +157,15 @@
 			<key>Admiral Ackbar:admiral_ackbar</key>
 			<string></string>
 		</dict>
+		<key>Exhaust Smoke:exhaust_smoke</key>
+		<dict>
+			<key>Flower(April Fool Joke):april_flower</key>
+			<string></string>
+			<key>IS-3D Electricity:defender_electricity</key>
+			<string></string>
+			<key>Tankenstein Fire:tanken_fire</key>
+			<string></string>
+		</dict>
 		<key>Font (for Japanese settings):font</key>
 		<dict>
 			<key>Japanese &amp; English Mix:ja_en_mix</key>
