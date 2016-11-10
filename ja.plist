@@ -49,13 +49,18 @@
 		</dict>
 		<key>戦車スキン:tank_skin</key>
 		<dict>
-			<key>透明迷彩:transparent</key>
-			<string></string>
 			<key>アニメ 痛戦車スキン:itasensha</key>
 			<string></string>
 			<key>ガルパンスキン:gup</key>
 			<string></string>
 			<key>冬のプラウダスキン:pravda_winter</key>
+			<string></string>
+			<key>白骨化スキン:beltrup</key>
+			<string></string>
+		</dict>
+		<key>戦車迷彩:tank_camouflage</key>
+		<dict>
+			<key>透明化:transparent</key>
 			<string></string>
 		</dict>
 		<key>ミニマップ:minimap</key>
@@ -84,7 +89,15 @@
 			<string></string>
 			<key>カラー数字表記Tierアイコン(骸骨):color_numeric_tier_skull</key>
 			<string></string>
-			<key>カラー車輌アイコン:color_vehicle</key>
+			<key>Ikon ver1:ikon1</key>
+			<string></string>
+			<key>Ikon ver2:ikon2</key>
+			<string></string>
+			<key>Ikon ver3:ikon3</key>
+			<string></string>
+			<key>Ikon ver4:ikon4</key>
+			<string></string>
+			<key>Mini3D:mini3d</key>
 			<string></string>
 		</dict>
 		<key>進行方向矢印:drive_arrow</key>
@@ -142,6 +155,11 @@
 			<key>アクバー提督:admiral_ackbar</key>
 			<string></string>
 		</dict>
+		<key>フォント:font</key>
+		<dict>
+			<key>日本語＆英語Mix:ja_en_mix</key>
+			<string></string>
+		</dict>
 		<key>その他:others</key>
 		<dict>
 			<key>敵攻撃方向マーカー:damage_direction</key>
@@ -174,6 +192,8 @@
 			<string></string>
 			<key>PC版 新砲撃音(9.16):pc_916</key>
 			<string></string>
+			<key>リアル砲撃音:realcannons</key>
+			<string></string>
 		</dict>
 		<key>被弾音:hit</key>
 		<dict>
@@ -194,6 +214,8 @@
 			<key>ハンガー環境音:hangar</key>
 			<string></string>
 			<key>軽量環境音:lightweight</key>
+			<string></string>
+			<key>GUI無線ボイス:realgui</key>
 			<string></string>
 		</dict>
 		<key>ボイス (日本語設定):voice_ja</key>

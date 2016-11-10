@@ -57,6 +57,13 @@
 			<string></string>
 			<key>Pravda Winter:pravda_winter</key>
 			<string></string>
+			<key>BelTrup (Skelton Skin):beltrup</key>
+			<string></string>
+		</dict>
+		<key>Tank Camouflage:tank_camouflage</key>
+		<dict>
+			<key>Transparent Camouflage:transparent</key>
+			<string></string>
 		</dict>
 		<key>Minimap:minimap</key>
 		<dict>
@@ -84,7 +91,15 @@
 			<string></string>
 			<key>Colored and Numeric Tier Icon (Skull):color_numeric_tier_skull</key>
 			<string></string>
-			<key>Colored Vehicle Icon:color_vehicle</key>
+			<key>Ikon ver1:ikon1</key>
+			<string></string>
+			<key>Ikon ver2:ikon2</key>
+			<string></string>
+			<key>Ikon ver3:ikon3</key>
+			<string></string>
+			<key>Ikon ver4:ikon4</key>
+			<string></string>
+			<key>Mini3D:mini3d</key>
 			<string></string>
 		</dict>
 		<key>Drive Arrow:drive_arrow</key>
@@ -142,6 +157,11 @@
 			<key>Admiral Ackbar:admiral_ackbar</key>
 			<string></string>
 		</dict>
+		<key>Font (for Japanese settings):font</key>
+		<dict>
+			<key>Japanese &amp; English Mix:ja_en_mix</key>
+			<string></string>
+		</dict>
 		<key>Others:others</key>
 		<dict>
 			<key>Enemy Shelling Direction Marker:damage_direction</key>
@@ -174,6 +194,8 @@
 			<string></string>
 			<key>New PC Gun Sound (9.16):pc_916</key>
 			<string></string>
+			<key>Real Cannons:realcannons</key>
+			<string></string>
 		</dict>
 		<key>Hit Sound:hit</key>
 		<dict>
@@ -194,6 +216,8 @@
 			<key>Hangar Environmental Sound:hangar</key>
 			<string></string>
 			<key>Lightweight Environmental Sound:lightweight</key>
+			<string></string>
+			<key>Real GUI:realgui</key>
 			<string></string>
 		</dict>
 		<key>Voice (for English settings):voice_en</key>
