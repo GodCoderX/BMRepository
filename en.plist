@@ -346,7 +346,7 @@
 			<key>Voice (German):voice_de</key>
 			<string></string>
 		</dict>
-		<key>Others</key>
+		<key>Others:others</key>
 		<dict>
 			<key>GUI-Sfx Mod:gui_sfx</key>
 			<string></string>
