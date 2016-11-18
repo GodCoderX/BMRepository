@@ -305,6 +305,8 @@
 		<dict>
 			<key>Sfx Mod Pack BGM:modpack</key>
 			<string></string>
+			<key>本家BGM:pc_music</key>
+			<string></string>
 			<key>ガルパン映画 BGM:gup_movie</key>
 			<string></string>
 			<key>Blue Steel BGM:blue_steel</key>

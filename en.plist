@@ -307,6 +307,8 @@
 		<dict>
 			<key>Sfx Mod Pack BGM:modpack</key>
 			<string></string>
+			<key>PC Music:pc_music</key>
+			<string></string>
 			<key>GuP Movie BGM:gup_movie</key>
 			<string></string>
 			<key>Blue Steel BGM:blue_steel</key>
